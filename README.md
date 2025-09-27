@@ -79,8 +79,7 @@ OKTI/
 ├── policy.html             # Privacy policy
 ├── payment-screen-1.html   # Payment interface
 ├── payment-screen-2.html   # Success page
-├── styles.css              # All styles
-├── server.js               # Backend server
+├── styles.css              # All styles            
 ├── package.json            # Dependencies
 ├── env.example             # Environment template
 └── README.md               # This file
@@ -148,3 +147,4 @@ After deployment, the website will be available at your Vercel URL, and the fron
 ## Support
 
 For issues or questions, contact the development team.
+
